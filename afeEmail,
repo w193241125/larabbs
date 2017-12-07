@@ -1,0 +1,77 @@
+[33mcommit 878305e07b97046d098bd53601e8ed778981cfb8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Dec 7 07:57:23 2017 +0000
+
+    Add generator
+
+[33mcommit c5bf973a0fd9d72be13bef33c7de204165a8f8de[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Thu Dec 7 15:53:35 2017 +0800
+
+    Create categories
+
+[33mcommit d61cea1ac529b10ff59549534aae2a9587a8c19b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Thu Dec 7 15:10:23 2017 +0800
+
+    Only authorized user can edit user profile
+
+[33mcommit b5b14381c9bd5a068f833295fd5cb89d1552fbb3[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Thu Dec 7 14:37:29 2017 +0800
+
+    User can upload avatar
+
+[33mcommit 7a09b478b974d0930f13672c5678f57be452c755[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Thu Dec 7 11:57:58 2017 +0800
+
+    Basic user profile editing
+
+[33mcommit 7c3fa8a0bcbebbd7bfb375701d8241987b5af77f[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Thu Dec 7 11:27:01 2017 +0800
+
+    User profile pafe
+
+[33mcommit 1785c16ec082a1370db356d8e5e863a0249fba47[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Thu Dec 7 11:16:47 2017 +0800
+
+    Move user model to models folder
+
+[33mcommit 6437f1ad8a578fa2d99f5045306c690f84763db9[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Thu Dec 7 11:09:56 2017 +0800
+
+    Add captcha
+
+[33mcommit 0be54726e11a3ed6ca73fab9f65f52c84a2c70d9[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Thu Dec 7 10:52:08 2017 +0800
+
+    Finish user auth
+
+[33mcommit 7351ad98d0096af3862576f02c95c05cb1ca6f68[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Thu Dec 7 10:26:59 2017 +0800
+
+    Finish basic page layout
+
+[33mcommit 130ed2cf507881209dfb4d9571c827812c37bdf1[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Wed Dec 6 17:41:01 2017 +0800
+
+    Add custom hrlpers
+
+[33mcommit 740ce491b6fce175d643b10b4eb718777686a71a[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Wed Dec 6 17:39:00 2017 +0800
+
+    Adjust configuration
+
+[33mcommit 9dc8d008767fb510fac04dcbfa1f4d9acc724f31[m
+Author: liuguansheng <164722305@qq.com>
+Date:   Wed Dec 6 17:26:02 2017 +0800
+
+    Initial commit

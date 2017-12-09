@@ -11,15 +11,6 @@ use App\Models\Topic;
 
 class TopicObserver
 {
-    public function creating(Topic $topic)
-    {
-        //
-    }
-
-    public function updating(Topic $topic)
-    {
-        //
-    }
 
     public function saving(Topic $topic)
     {
@@ -40,5 +31,10 @@ class TopicObserver
             dispatch(new TranslateSlug($topic));
             //$topic->slug = app(SlugTranslateHandler::class)->translate($topic->title);
         }
+    }
+
+    public function deleted(Topic $topic)
+    {
+        \DB::table('replies')->where('topic_id', $topic->id)->delete();
     }
 }
